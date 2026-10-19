@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Roster.Functions/Roster.Functions.csproj" />
+    <Project Path="src/Roster.Plugins/Roster.Plugins.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Roster.Functions.Tests/Roster.Functions.Tests.csproj" />
+    <Project Path="tests/Roster.Plugins.Tests/Roster.Plugins.Tests.csproj" />
+  </Folder>
+</Solution>
